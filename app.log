@@ -28,3 +28,10 @@
 2025-08-12 15:53:37,810 - INFO - CSV uploaded with 1 rows
 2025-08-12 15:53:38,334 - ERROR - Row 1 upload failed: 422 - {"errors":[{"field":"/order/reason_for_testing","messages":["is invalid"]}],"request_uuid":"932473fc-8cb4-452a-b25a-3735bdd721ba"}
 2025-08-12 15:53:38,335 - INFO - 127.0.0.1 - - [12/Aug/2025 15:53:38] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-08-12 16:25:18,900 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-12 16:25:18,900 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-12 16:25:20,928 - INFO - 127.0.0.1 - - [12/Aug/2025 16:25:20] "[36mGET / HTTP/1.1[0m" 304 -
+2025-08-12 16:25:20,966 - INFO - 127.0.0.1 - - [12/Aug/2025 16:25:20] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-08-12 16:25:20,967 - INFO - 127.0.0.1 - - [12/Aug/2025 16:25:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+2025-08-12 16:25:21,148 - INFO - 127.0.0.1 - - [12/Aug/2025 16:25:21] "[36mGET /favicon.png HTTP/1.1[0m" 304 -
