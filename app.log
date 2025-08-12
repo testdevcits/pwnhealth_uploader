@@ -1,0 +1,30 @@
+2025-08-12 15:02:22,525 - INFO - CSV uploaded with 1 rows
+2025-08-12 15:02:23,118 - ERROR - Row 1 upload failed: 422 - {"errors":[{"field":"/order/reason_for_testing","messages":["is invalid"]}],"request_uuid":"0ed575d1-ee88-4787-bcfe-9f3af84bb1eb"}
+2025-08-12 15:02:23,119 - INFO - 127.0.0.1 - - [12/Aug/2025 15:02:23] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-08-12 15:11:18,549 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-12 15:11:18,549 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-12 15:11:21,089 - INFO - 127.0.0.1 - - [12/Aug/2025 15:11:21] "[36mGET / HTTP/1.1[0m" 304 -
+2025-08-12 15:11:21,118 - INFO - 127.0.0.1 - - [12/Aug/2025 15:11:21] "[36mGET /style.css HTTP/1.1[0m" 304 -
+2025-08-12 15:11:21,119 - INFO - 127.0.0.1 - - [12/Aug/2025 15:11:21] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-08-12 15:11:21,192 - INFO - 127.0.0.1 - - [12/Aug/2025 15:11:21] "GET /favicon.png HTTP/1.1" 200 -
+2025-08-12 15:24:31,656 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-12 15:24:31,657 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-12 15:24:33,881 - INFO - 127.0.0.1 - - [12/Aug/2025 15:24:33] "[36mGET / HTTP/1.1[0m" 304 -
+2025-08-12 15:24:33,943 - INFO - 127.0.0.1 - - [12/Aug/2025 15:24:33] "[36mGET /style.css HTTP/1.1[0m" 304 -
+2025-08-12 15:24:33,945 - INFO - 127.0.0.1 - - [12/Aug/2025 15:24:33] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-08-12 15:24:34,313 - INFO - 127.0.0.1 - - [12/Aug/2025 15:24:34] "[36mGET /favicon.png HTTP/1.1[0m" 304 -
+2025-08-12 15:35:52,786 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-12 15:35:52,786 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-12 15:35:56,461 - INFO - 127.0.0.1 - - [12/Aug/2025 15:35:56] "[36mGET / HTTP/1.1[0m" 304 -
+2025-08-12 15:35:56,481 - INFO - 127.0.0.1 - - [12/Aug/2025 15:35:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+2025-08-12 15:35:56,490 - INFO - 127.0.0.1 - - [12/Aug/2025 15:35:56] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-08-12 15:35:56,732 - INFO - 127.0.0.1 - - [12/Aug/2025 15:35:56] "[36mGET /favicon.png HTTP/1.1[0m" 304 -
+2025-08-12 15:48:06,132 - INFO - CSV uploaded with 1 rows
+2025-08-12 15:48:06,673 - ERROR - Row 1 upload failed: 422 - {"errors":[{"field":"/order/reason_for_testing","messages":["is invalid"]}],"request_uuid":"35f1de03-1cf2-43ea-ad57-214b98c8ac29"}
+2025-08-12 15:48:06,675 - INFO - 127.0.0.1 - - [12/Aug/2025 15:48:06] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-08-12 15:53:37,810 - INFO - CSV uploaded with 1 rows
+2025-08-12 15:53:38,334 - ERROR - Row 1 upload failed: 422 - {"errors":[{"field":"/order/reason_for_testing","messages":["is invalid"]}],"request_uuid":"932473fc-8cb4-452a-b25a-3735bdd721ba"}
+2025-08-12 15:53:38,335 - INFO - 127.0.0.1 - - [12/Aug/2025 15:53:38] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -

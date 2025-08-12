@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PWNHealth CSV Uploader</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Add your favicon here -->
+    <link rel="icon" type="image/x-icon" href="favicon.png" />
+    <!-- If your icon is PNG, use this instead: -->
+    <!-- <link rel="icon" type="image/png" href="favicon.png" /> -->
+</head>
+<body>
+    <h1>PWNHealth CSV Uploader</h1>
+    <form id="uploadForm" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".csv" required>
+        <button type="submit">Upload CSV</button>
+    </form>
+    <div id="message"></div>
+    <script src="script.js"></script>
+</body>
+</html>
